@@ -1,4 +1,4 @@
-# ML-Robustness-Poison-attack
+# ML-Robustness-Poison-attack-on-images
 The solution measures ML robustness towards induction of predesigned noises in the dataset while training classifier on tabular data. 
 
 ## Product Overview
